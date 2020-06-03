@@ -1,4 +1,3 @@
-import pytest
 import task
 
 def test_1_1():
