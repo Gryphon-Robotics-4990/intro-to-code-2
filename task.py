@@ -77,6 +77,8 @@ def operations():
     # answer, or fully understand what's going on. More function stuff will come in the next task.
     ans = function2(value4, value1)
     
+    #...And you're done! See you in the next task!
+    
     return value1, ans
 
 def function1(a, b):
