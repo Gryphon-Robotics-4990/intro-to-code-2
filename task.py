@@ -75,7 +75,7 @@ def operations():
     
     # Exercise 2: Modify the function below so that the two parameters are value4 and value1. You don't need to calculate the
     # answer, or fully understand what's going on. More function stuff will come in the next task.
-    ans = function2(value4, value1)
+    ans = function2(12, teamNumber)
     
     #...And you're done! See you in the next task!
     
